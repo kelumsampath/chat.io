@@ -20,7 +20,7 @@
 		"profileFields": ["id", "displayName", "photos"]
 	},
 	"redis": {
-		"host": "127.0.0.1",
+		"host": "ds131963.mlab.com",
 		"port": 31963,
 		"password": ""
 	}
